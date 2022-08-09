@@ -1,0 +1,356 @@
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\QuanLyBanHangFinal.exe
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\appsettings.json
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\QuanLyBanHangFinal.deps.json
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\QuanLyBanHangFinal.runtimeconfig.json
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\QuanLyBanHangFinal.runtimeconfig.dev.json
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\QuanLyBanHangFinal.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\QuanLyBanHangFinal.pdb
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Azure.Core.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Azure.Identity.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Humanizer.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.csproj.AssemblyReference.cache
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Admin.ChamCongForm.resources
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Admin.KhoHangForm.resources
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Admin.QLNVForm.resources
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Admin.QuanLyForm.resources
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Admin.ThemNVForm.resources
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Admin.XoaNVForm.resources
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.DKiKHForm.resources
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Form1.resources
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.MenuForm.resources
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.MuaHang.ChonGioHang.resources
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.MuaHang.GioHangForm.resources
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.MuaHang.KHForm.resources
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.MuaHang.ThanhToanForm.resources
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.NhanVien.CheckmaAdminForm.resources
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.NhanVien.DoiMKForm.resources
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.NhanVien.HoaDonForm.resources
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.NhanVien.KiGuiForm.resources
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.NhanVien.MatHangForm.resources
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.NhanVien.QuanLyKHForm.resources
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.NhanVien.ResetForm.resources
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Properties.Resources.resources
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.csproj.GenerateResource.cache
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.AssemblyInfoInputs.cache
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.AssemblyInfo.cs
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.csproj.CoreCompileInputs.cache
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.csproj.CopyComplete
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\refint\QuanLyBanHangFinal.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.pdb
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.genruntimeconfig.cache
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\ref\QuanLyBanHangFinal.dll
+D:\PROJECT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Admin.ChamCongAD.resources
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\QuanLyBanHangFinal.exe
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\QuanLyBanHangFinal.deps.json
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\QuanLyBanHangFinal.runtimeconfig.json
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\QuanLyBanHangFinal.runtimeconfig.dev.json
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\QuanLyBanHangFinal.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\QuanLyBanHangFinal.pdb
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.csproj.AssemblyReference.cache
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Admin.ChamCongAD.resources
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Admin.ChamCongForm.resources
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Admin.KhoHangForm.resources
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Admin.QLNVForm.resources
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Admin.QuanLyForm.resources
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Admin.ThemNVForm.resources
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Admin.XoaNVForm.resources
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.DKiKHForm.resources
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Form1.resources
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.MenuForm.resources
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.MuaHang.ChonGioHang.resources
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.MuaHang.GioHangForm.resources
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.MuaHang.KHForm.resources
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.MuaHang.ThanhToanForm.resources
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.NhanVien.CheckmaAdminForm.resources
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.NhanVien.DoiMKForm.resources
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.NhanVien.HoaDonForm.resources
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.NhanVien.KiGuiForm.resources
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.NhanVien.MatHangForm.resources
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.NhanVien.QuanLyKHForm.resources
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.NhanVien.ResetForm.resources
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Properties.Resources.resources
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.csproj.GenerateResource.cache
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.AssemblyInfoInputs.cache
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.AssemblyInfo.cs
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.csproj.CoreCompileInputs.cache
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.csproj.CopyComplete
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\refint\QuanLyBanHangFinal.dll
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.pdb
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.genruntimeconfig.cache
+C:\Users\tuand\OneDrive\Máy tính\project PRN\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\ref\QuanLyBanHangFinal.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\QuanLyBanHangFinal.exe
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\QuanLyBanHangFinal.deps.json
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\QuanLyBanHangFinal.runtimeconfig.json
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\QuanLyBanHangFinal.runtimeconfig.dev.json
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\QuanLyBanHangFinal.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\QuanLyBanHangFinal.pdb
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.csproj.AssemblyReference.cache
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Admin.ChamCongAD.resources
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Admin.ChamCongForm.resources
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Admin.KhoHangForm.resources
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Admin.QLNVForm.resources
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Admin.QuanLyForm.resources
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Admin.ThemNVForm.resources
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Admin.XoaNVForm.resources
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.DKiKHForm.resources
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Form1.resources
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.MenuForm.resources
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.MuaHang.ChonGioHang.resources
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.MuaHang.GioHangForm.resources
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.MuaHang.KHForm.resources
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.MuaHang.ThanhToanForm.resources
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.NhanVien.CheckmaAdminForm.resources
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.NhanVien.DoiMKForm.resources
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.NhanVien.HoaDonForm.resources
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.NhanVien.KiGuiForm.resources
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.NhanVien.MatHangForm.resources
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.NhanVien.QuanLyKHForm.resources
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.NhanVien.ResetForm.resources
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Properties.Resources.resources
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.csproj.GenerateResource.cache
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.AssemblyInfoInputs.cache
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.AssemblyInfo.cs
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.csproj.CoreCompileInputs.cache
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.csproj.CopyComplete
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\refint\QuanLyBanHangFinal.dll
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.pdb
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.genruntimeconfig.cache
+C:\Users\notur\OneDrive\Desktop\EDIT\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\ref\QuanLyBanHangFinal.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\QuanLyBanHangFinal.exe
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\QuanLyBanHangFinal.deps.json
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\QuanLyBanHangFinal.runtimeconfig.json
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\QuanLyBanHangFinal.runtimeconfig.dev.json
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\QuanLyBanHangFinal.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\QuanLyBanHangFinal.pdb
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.csproj.AssemblyReference.cache
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Admin.ChamCongAD.resources
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Admin.ChamCongForm.resources
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Admin.KhoHangForm.resources
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Admin.QLNVForm.resources
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Admin.QuanLyForm.resources
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Admin.ThemNVForm.resources
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Admin.XoaNVForm.resources
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.DKiKHForm.resources
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Form1.resources
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.MenuForm.resources
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.MuaHang.ChonGioHang.resources
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.MuaHang.GioHangForm.resources
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.MuaHang.KHForm.resources
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.MuaHang.ThanhToanForm.resources
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.NhanVien.CheckmaAdminForm.resources
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.NhanVien.DoiMKForm.resources
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.NhanVien.HoaDonForm.resources
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.NhanVien.KiGuiForm.resources
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.NhanVien.MatHangForm.resources
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.NhanVien.QuanLyKHForm.resources
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.NhanVien.ResetForm.resources
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.Properties.Resources.resources
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.csproj.GenerateResource.cache
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.AssemblyInfoInputs.cache
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.AssemblyInfo.cs
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.csproj.CoreCompileInputs.cache
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.csproj.CopyComplete
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\refint\QuanLyBanHangFinal.dll
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.pdb
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\QuanLyBanHangFinal.genruntimeconfig.cache
+C:\Users\tuand\OneDrive\Máy tính\QuanLyBanHangFinal\QuanLyBanHangFinal\QuanLyBanHangFinal\obj\Debug\net5.0-windows\ref\QuanLyBanHangFinal.dll

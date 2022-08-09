@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin\ChamCongAD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\ChamCongForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\KhoHangForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\QLNVForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\QuanLyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\ThemNVForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\XoaNVForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DKiKHForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MuaHang\ChonGioHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MuaHang\GioHangForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MuaHang\KHForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MuaHang\ThanhToanForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhanVien\CheckmaAdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhanVien\DoiMKForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhanVien\HoaDonForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NhanVien\KiGuiForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhanVien\MatHangForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NhanVien\QuanLyKHForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NhanVien\ResetForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
